@@ -1,0 +1,13 @@
+#lookup{
+    color: white;
+    border-color: white;
+    border-radius: 10px;
+    padding: 10px 15px;
+    background-color: blue;
+}
+
+#country{
+    border-color: white;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
